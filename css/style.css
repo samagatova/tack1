@@ -1,0 +1,16 @@
+body{
+  margin: 0;
+
+}
+#btn{
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  width: 100px;
+  height: 50px;
+  border-radius: 30%;
+  border: none;
+  text-transform: uppercase;
+  font-weight: 700;
+  background-color: aqua;
+}
